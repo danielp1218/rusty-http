@@ -6,4 +6,4 @@
 ✅ Gzip compression <br>
 ✅ Persistent + concurrent HTTP connections <br>
 
-First project using Rust, will try to add more later  : )
+First project using Rust! Will try to add more to the project later  : )
